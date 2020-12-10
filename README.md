@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/scorpion/dicegames/docs/images/logo.svg" alt="Scorpion Dice Games Logo" height="55px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/scorpion/dicegames/main/docs/images/logo.svg" alt="Scorpion Dice Games Logo" height="55px"/></p>
 
 # Dice Games
 
