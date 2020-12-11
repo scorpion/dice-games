@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/images/logo.svg" alt="Scorpion Dice Games Logo" height="225px"/></p>
 
-[![CC BY-NC-SA 3.0][cc-by-sa-shield]][cc-by-sa]
+[![license: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-orange.svg?style=plastic&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 # Dice Games
 
@@ -67,12 +67,8 @@ Classes and objects
 
 ## License
 
-Unlicense
-
-- I dedicate any and all copyright interest in this software to the
-  public domain. I make this dedication for the benefit of the public at
-  large and to the detriment of my heirs and successors. I intend this
-  dedication to be an overt act of relinquishment in perpetuity of all
-  present and future rights to this software under copyright law.
+[![license: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-orange.svg?style=plastic&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 To the extent possible under law, `Brett Wilcox` - <brett@scorpion.io> has waived all copyright and related or neighboring rights to `Dice Games`.
+
+scorpion.io and the scorpion logo remain under ownership of Brett Wilcox and you may not use the logo in your own works.
