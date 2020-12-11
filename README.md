@@ -1,5 +1,7 @@
 <p align="center"><img src="docs/images/logo.svg" alt="Scorpion Dice Games Logo" height="225px"/></p>
 
+[![CC BY-NC-SA 3.0][cc-by-sa-shield]][cc-by-sa]
+
 # Dice Games
 
 The goal of `Dice Games` is to provide a beginner friendly framework for approaching problems and turning them into code. You can think of this course as a dedication to the study of human mechanisms and their replacement by mechanical or electronic systems.
@@ -41,9 +43,27 @@ We are going to make a simple dice game using python.
 
 What is programming and why are we doing this?
 
-1. Hello World - Variables
-2. For Loop, iterating numbers, foreach
-3. Functions, number, images.
+## Topics
+
+Variables, assignments
+Simple input
+Main program
+If-statement
+Logical operators
+Loops
+Output formatting
+Functions
+Parameters, return values
+Debugger
+Lists
+Strings
+Dictionary
+Values and references
+Basics of program design
+Programming style
+Exceptions
+File handling
+Classes and objects
 
 ## License
 

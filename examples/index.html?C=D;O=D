@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /code3</title>
+ </head>
+ <body>
+<h1>Index of /code3</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="xml2.py">xml2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">466 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="xml1.py">xml1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">280 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="words.txt">words.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="words.py">words.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">377 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="wordlist.py">wordlist.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">241 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="wikigrade.py">wikigrade.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">2.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="wikidata.db">wikidata.db</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="whathour.py">whathour.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">393 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urlwords.py">urlwords.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">270 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urlregex.py">urlregex.py</a></td><td align="right">2019-11-09 00:35  </td><td align="right">417 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urllinks.py">urllinks.py</a></td><td align="right">2019-08-18 22:45  </td><td align="right">580 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urllink3.py">urllink3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urllink2.py">urllink2.py</a></td><td align="right">2019-08-18 22:45  </td><td align="right">685 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urllib2.py">urllib2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">171 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urllib1.py">urllib1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">140 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="urljpeg.py">urljpeg.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">715 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtsize.py">txtsize.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">251 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtmd5.py">txtmd5.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">552 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtdelete.py">txtdelete.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">730 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtcount.py">txtcount.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">181 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtcheck3.py">txtcheck3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">660 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtcheck2.py">txtcheck2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">681 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="txtcheck.py">txtcheck.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">577 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twurl.py">twurl.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twtest.py">twtest.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">672 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twspider.py">twspider.py</a></td><td align="right">2020-05-25 15:30  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twjoin.py">twjoin.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">661 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twitter2.py">twitter2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twitter1.py">twitter1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">831 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twfriends.py">twfriends.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">3.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="twdump.py">twdump.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">210 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="trynum.py">trynum.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">161 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="tryexcept.py">tryexcept.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">175 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="tracks/">tracks/</a></td><td align="right">2019-08-12 00:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="tracks.zip">tracks.zip</a></td><td align="right">2020-12-11 15:35  </td><td align="right"> 51K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="spamave.py">spamave.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">461 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="soft.py">soft.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">226 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="socket2.py">socket2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">478 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="socket1.py">socket1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">323 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sequence.py">sequence.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">231 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search10.py">search10.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">192 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search9.py">search9.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">211 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search8.py">search8.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">184 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search7.py">search7.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">275 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search6.py">search6.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">204 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search5.py">search5.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">166 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search4.py">search4.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">138 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search3.py">search3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">215 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search2.py">search2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">128 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="search1.py">search1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">113 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="roster/">roster/</a></td><td align="right">2019-08-12 00:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="roster.zip">roster.zip</a></td><td align="right">2020-12-11 15:35  </td><td align="right">2.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="romeo.txt">romeo.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">167 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="romeo-full.txt">romeo-full.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">8.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re15.py">re15.py</a></td><td align="right">2019-08-14 10:25  </td><td align="right">465 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re14.py">re14.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">338 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re13.py">re13.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">336 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re12.py">re12.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">304 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re11.py">re11.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">379 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re10.py">re10.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">310 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re09.py">re09.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">318 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re08.py">re08.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">370 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re07.py">re07.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">277 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re06.py">re06.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">214 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re05.py">re05.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">125 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re04.py">re04.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">200 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re03.py">re03.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">222 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re02.py">re02.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">179 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re01.py">re01.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">175 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="pay3.py">pay3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">304 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="pay2.py">pay2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">208 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="pay.py">pay.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">132 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party6.py">party6.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">283 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party5.py">party5.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">297 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party4.py">party4.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">293 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party3.py">party3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">230 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party2.py">party2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">178 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party1.py">party1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">153 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="party.py">party.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">216 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="pals.py">pals.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">114 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="pagerank/">pagerank/</a></td><td align="right">2020-06-22 18:10  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="pagerank.zip">pagerank.zip</a></td><td align="right">2020-12-11 15:35  </td><td align="right">224K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="open.py">open.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">110 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="oauth.py">oauth.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="notry.py">notry.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">109 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mbox.txt">mbox.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">6.4M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mbox-short.txt">mbox-short.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 92K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mailtop.py">mailtop.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">371 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mailcount.py">mailcount.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">224 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="lyrics.py">lyrics.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">194 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="largest.py">largest.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">215 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="json2.py">json2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">319 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="json1.py">json1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">257 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="intro.txt">intro.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="intro-short.txt">intro-short.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">467 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="hidden.py">hidden.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">322 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="grep.py">grep.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">304 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="greet.py">greet.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 55 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="grade.py">grade.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">288 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="gmane/">gmane/</a></td><td align="right">2020-12-11 15:35  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="gmane.zip">gmane.zip</a></td><td align="right">2020-12-11 15:35  </td><td align="right"> 77K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="giturl.py">giturl.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">743 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="gitsecrets.py">gitsecrets.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">255 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="gitpulls.py">gitpulls.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="geoxml.py">geoxml.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="georeq.py">georeq.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="geojson.py">geojson.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="geodata/">geodata/</a></td><td align="right">2019-08-12 00:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="geodata.zip">geodata.zip</a></td><td align="right">2020-12-11 15:35  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="fahren2.py">fahren2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">166 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="fahren.py">fahren.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">107 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="emaildb.py">emaildb.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">942 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="elev.py">elev.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 96 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="egg.py">egg.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">373 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="db2.py">db2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">442 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="db1.py">db1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">197 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="curl3.py">curl3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">652 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="curl2.py">curl2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">324 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="curl1.py">curl1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">186 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count3.py">count3.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">506 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count2.py">count2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">467 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="count1.py">count1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">333 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="copytildone2.py">copytildone2.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">143 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="copytildone1.py">copytildone1.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">103 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="clown.txt">clown.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">106 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="cleanup.sh">cleanup.sh</a></td><td align="right">2019-08-12 00:51  </td><td align="right">297 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="celsius.py">celsius.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">103 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bs4/">bs4/</a></td><td align="right">2019-08-12 00:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="bs4.zip">bs4.zip</a></td><td align="right">2020-12-11 15:35  </td><td align="right"> 77K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="badhtml.html">badhtml.html</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 89 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="average.py">average.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">302 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="avenum.py">avenum.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">221 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="avelist.py">avelist.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">210 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="authors.txt">authors.txt</a></td><td align="right">2019-08-12 00:51  </td><td align="right">147 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="argtest.py">argtest.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">124 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="argfile.py">argfile.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right">115 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="addtwo.py">addtwo.py</a></td><td align="right">2019-08-12 00:51  </td><td align="right"> 80 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.39 (Ubuntu) Server at www.py4e.com Port 80</address>
+</body></html>
