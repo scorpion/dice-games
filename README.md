@@ -69,6 +69,22 @@ Classes and objects
 
 [![license: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-orange.svg?style=plastic&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
+You are free:
+
+- **To Share** — to copy, distribute, display, and perform the work
+- **To Remix** — to make derivative works
+
+Under the following conditions:
+
+- **Attribution**. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+- **Noncommercial**. You may not use this work for commercial purposes.
+- **Share Alike**. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+  - For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
+  - Any of the above conditions can be waived if you get permission from the copyright holder.
+  - Nothing in this license impairs or restricts the author's moral rights.
+
+**Your fair use and other rights are in no way affected by the above.**
+
 To the extent possible under law, `Brett Wilcox` - <brett@scorpion.io> has waived all copyright and related or neighboring rights to `Dice Games`.
 
 scorpion.io and the scorpion logo remain under ownership of Brett Wilcox and you may not use the logo in your own works.
