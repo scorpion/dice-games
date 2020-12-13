@@ -1,14 +1,12 @@
 <p align="center"><img src="docs/images/logo.svg" alt="Scorpion Dice Games Logo" height="225px"/></p>
 
-[![license: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-orange.svg?style=plastic&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-
 # Dice Games
 
-The goal of `Dice Games` is to provide a beginner friendly framework for approaching problems and turning them into code. You can think of this course as a dedication to the study of human mechanisms and their replacement by mechanical or electronic systems.
+[![license: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-orange.svg?style=plastic&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-It’s about bringing the concept of physical dice and converting into problems that can be solved and writing code that builds foundations up to a small functional application.
+The goal of `Dice Games` is to provide a beginner friendly framework for approaching requirements and turning them into usable programs. You can think of this course as a dedication to the study of human mechanisms and their replacement by mechanical or electronic systems.
 
-By using an imaginary (or real!) pair of dice, we are going to use this course to consider how you can take these concepts and apply them into a functional program.
+By using an imaginary (or real!) pair of dice, we are going to use this course to consider how you can take those approaches and concepts to turn them into code.
 
 Made with ❤️ by Brett Wilcox
 
@@ -64,6 +62,15 @@ Programming style
 Exceptions
 File handling
 Classes and objects
+
+## Thank you!
+
+These courses would not be possible without the tremendous contributions by [Charles Severance](https://www.researchgate.net/profile/Charles_Severance) from University of Michigan.
+
+- <https://www.py4e.com>
+- <http://www.dr-chuck.com/>
+- [Coursera - Programming for Everybody](https://www.coursera.org/learn/python)
+- [Programming for Everybody Introduction](https://www.youtube.com/watch?v=cga7rkcv3kA)
 
 ## License
 
