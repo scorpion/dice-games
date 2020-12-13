@@ -22,7 +22,7 @@ Before starting this course, you should stop and consider the following:
 While it's important for you to understand your own reasons and goals you are looking to gain out of this experieence, it's just as important to understand what my goals as a teacher and transmitter of this information are.
 
 - [x] Why am I starting this learning journey and what do I hope to gain out of it?
-  - **_Creative Commons_** - My wish is to provide a public work of art that can be used by anyone and adapted as seen fit for the times using the dual CC0 and MIT licenses.
+  - **_Creative Commons_** - My wish is to provide a public work of art that can be used by anyone and adapted as seen fit for the times using the CC BY-NC-SA 3.0 license.
   - **_Dice_** - Dice where the first thing I learned to think about in approaching problems. While there is apparent simplicity in their existance, it teaches one to think of them in entirely new ways.
   - **_Approach_** - I feel these methodologies will serve you as a student and lay groundwork for future teachers and students.
 - [x] How will I be able to apply this knowledge in my future life, job, and projects?
@@ -43,25 +43,25 @@ What is programming and why are we doing this?
 
 ## Topics
 
-Variables, assignments
-Simple input
-Main program
-If-statement
-Logical operators
-Loops
-Output formatting
-Functions
-Parameters, return values
-Debugger
-Lists
-Strings
-Dictionary
-Values and references
-Basics of program design
-Programming style
-Exceptions
-File handling
-Classes and objects
+- Variables, assignments
+- Simple input
+- Main program
+- If-statement
+- Logical operators
+- Loops
+- Output formatting
+- Functions
+- Parameters, return values
+- Debugger
+- Lists
+- Strings
+- Dictionary
+- Values and references
+- Basics of program design
+- Programming style
+- Exceptions
+- File handling
+- Classes and objects
 
 ## Thank you!
 
