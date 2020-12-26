@@ -94,4 +94,4 @@ Under the following conditions:
 
 To the extent possible under law, `Brett Wilcox` - <brett@scorpion.io> has waived all copyright and related or neighboring rights to `Dice Games`.
 
-scorpion.io and the scorpion logo remain under ownership of Brett Wilcox and you may not use the logo in your own works.
+scorpion.io and the scorpion logo remain under ownership of Brett Wilcox and you may not use the logo in your own works. You may however use the "Dice Games" name and any images depicting dice.
